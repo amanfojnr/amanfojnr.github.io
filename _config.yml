@@ -7,7 +7,7 @@ relative_permalinks: false
 # Setup
 title:               amanfojnr
 tagline:             'Learning expands great souls. ~ Namibian proverb'
-description:         'I seek to write here what comes on my mind. But you will find patterns if you follow. Say hi to me <a href="https://twitter.com/mdo" target="_blank">@amanfojnr_</a>.'
+description:         'I seek to write here what comes on my mind. But you will find patterns if you follow. Say hi to me <a href="https://twitter.com/amanfojnr_" target="_blank">@amanfojnr_</a>.'
 url:                 https://amanfojnr.github.io
 baseurl:             ''
 paginate:            5
