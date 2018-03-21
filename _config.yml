@@ -5,17 +5,17 @@ permalink:           pretty
 relative_permalinks: false
 
 # Setup
-title:               amanfojnr
+title:               expl00ra
 tagline:             'Learning expands great souls. ~ Namibian proverb'
-description:         'I seek to write here what comes on my mind. But you will find patterns if you follow. Say hi to me <a href="https://twitter.com/amanfojnr_" target="_blank">@amanfojnr_</a>.'
-url:                 https://amanfojnr.github.io
+description:         'I am a software engineer with passion for building great software. My other interest are in UX and Data Science. I seek to write here what comes on my mind. But you will find patterns if you follow. Say hi to me <a href="https://twitter.com/expl00ra" target="_blank">@amanfojnr_</a>.'
+url:                 https://expl00ra.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:             
-  name:              Amanfo Kenneth Junior
-  url:               https://twitter.com/amanfojnr_
+  name:              Kofi
+  url:               https://twitter.com/expl00ra
   email:             amanfojnr@zoho.com
 
 # Custom vars
