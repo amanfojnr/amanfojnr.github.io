@@ -7,7 +7,7 @@ relative_permalinks: false
 # Setup
 title:               expl00ra
 tagline:             'Learning expands great souls. ~ Namibian proverb'
-description:         'I am a software engineer with passion for building great software. My other interest are in UX and Data Science. I seek to write here what comes on my mind. But you will find patterns if you follow. Say hi to me on twitter <a href="https://twitter.com/expl00ra" target="_blank">@exp00ra</a>.'
+description:         'I am a software engineer with passion for building great software. My other interest are in UX and Data Science. I seek to write here what comes on my mind. But you will find patterns if you follow. Say hi to me on twitter <a href="https://twitter.com/expl00ra" target="_blank">@expl00ra</a>.'
 url:                 https://expl00ra.github.io
 baseurl:             ''
 paginate:            5
