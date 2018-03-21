@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Welcome To My Space?
+title: Welcome To My Space
 ---
 
-# Welcome To My Space
 
   > I will be writing about topics concerning my profession, and it can range from personal opinions to tutorials.
   
